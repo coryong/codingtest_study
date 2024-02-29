@@ -1,0 +1,6 @@
+_,n,k=map(int,input().split())
+a=list(input().split())
+b=n-(n//k)
+a=sorted(a)
+answer=int(a[-1])*b+int(a[-2])*(n-b)
+print(answer)
