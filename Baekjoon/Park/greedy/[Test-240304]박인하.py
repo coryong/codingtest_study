@@ -39,6 +39,8 @@ def solution(number, k):
             answer.pop()
             k-=1
         answer.append(num)
+    if k>0:
+        answer=answer[:-k]
     k=''
     for num in answer:
        k =k+str(num)
