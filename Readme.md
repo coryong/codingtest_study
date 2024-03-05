@@ -39,7 +39,7 @@
     <td align="center"><img src="https://avatars.githubusercontent.com/coryong" width="130px;" alt=""></a></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/kihokwon" width="130px;" alt=""></a></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/BOO-WONKUK" width="130px;" alt=""></a></td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/JeongDongMinn" width="130px;" alt=""></a></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/dodongmin" width="130px;" alt=""></a></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/strokeincoding" width="130px;" alt=""></a></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/parkinha" width="130px;" alt=""></a></td>
   </tr>
@@ -47,7 +47,7 @@
     <td align="center"><a href="https://github.com/coryong"><b>김태형</b></a></td>
     <td align="center"><a href="https://github.com/kihokwon"><b>권기호</b></a></td>
     <td align="center"><a href="https://github.com/BOO-WONKUK"><b>부원국</b></a></td>
-    <td align="center"><a href="https://github.com/JeongDongMinn"><b>정동민</b></a></td>
+    <td align="center"><a href="https://github.com/dodongmin"><b>정동민</b></a></td>
     <td align="center"><a href="https://github.com/strokeincoding"><b>이상우</b></a></td>
     <td align="center"><a href="https://github.com/parkinha"><b>박인하</b></a></td>
   </tr>
