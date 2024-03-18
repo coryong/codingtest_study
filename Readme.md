@@ -88,7 +88,7 @@
 | 1주차    | greedy              | [설탕배달](https://www.acmicpc.net/problem/2839) | [ATM](https://www.acmicpc.net/problem/11399) | [ 동전0](https://www.acmicpc.net/problem/11047)                                                             | [A와 B](https://www.acmicpc.net/problem/12904)   |
 | 2주차    | 구현         | [사탕게임]( https://www.acmicpc.net/problem/3085) | [팰린드롬 ](https://www.acmicpc.net/problem/1213) | [트럭]( https://www.acmicpc.net/problem/13335)                                                             | [원판 돌리기]( https://www.acmicpc.net/problem/17822)   |
 | 3주차    | DFS/BFS         | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [안전영역 ](https://www.acmicpc.net/problem/2468) |  [아기상어 2]( https://www.acmicpc.net/problem/17086)                                                            | [텀 프로젝트](https://www.acmicpc.net/problem/9466)   |
-| 4주차    | 정렬             | | | | |
+| 4주차    | 정렬             | [회의실 배정 ](https://www.acmicpc.net/problem/1931) | [좌표 압축 ](https://www.acmicpc.net/problem/18870) |  [신입 사원 ](https://www.acmicpc.net/problem/1946)                                                            | [두 용액 ](https://www.acmicpc.net/problem/2470)   |
 | 5주차    | 이진탐색               | | |  |  |
 | 6주차    | 다이나믹프로그래밍                |  |  |  |   |
 | 7주차    | 최단경로       |  |  |                                                              |  |
