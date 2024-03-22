@@ -103,7 +103,7 @@
 | 1주차    | 2024-03-04              | [큰수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | [즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123)                                                             | 
 | 2주차    | 2024-03-11         | [거북이](https://www.acmicpc.net/problem/8911) | [2차원 배열의 합](https://www.acmicpc.net/problem/2167) | [자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340)                                                             | 
 | 3주차    | 2024-03-18         | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [여행경로 ](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |  [대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139)                                                            | 
-| 4주차    | 2024-03-25             | | | | 
+| 4주차    | 2024-03-25             |[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | 
 | 5주차    | 2024-04-01                | | |  |  
 | 6주차    | 2024-04-08               |  |  |  |   
 | 7주차    | 2024-04-15       |  |  |                                                              |
