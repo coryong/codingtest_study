@@ -91,7 +91,7 @@
 | 4주차    | 정렬             | [회의실 배정 ](https://www.acmicpc.net/problem/1931) | [좌표 압축 ](https://www.acmicpc.net/problem/18870) |  [신입 사원 ](https://www.acmicpc.net/problem/1946)                                                            | [두 용액 ](https://www.acmicpc.net/problem/2470)   |
 | 5주차    | 이진탐색               | [선물 ](https://www.acmicpc.net/problem/1166) | [나무 자르기 ](https://www.acmicpc.net/problem/2805) |  [과자 나눠주기 ](https://www.acmicpc.net/problem/16401)                                                            | [개똥벌레 ](https://www.acmicpc.net/problem/3020)   |
 | 6주차    | 다이나믹프로그래밍                |[덩치](https://www.acmicpc.net/problem/7568)  |[기타리스트](https://www.acmicpc.net/problem/1495)  |[점프](https://www.acmicpc.net/problem/1890)  |[퇴사 2](https://www.acmicpc.net/problem/15486)   |
-| 7주차    | 최단경로       |  |  |                                                              |  |
+| 7주차    | 문자열(최단경로 대체)       |[펠린드롬 만들기](https://www.acmicpc.net/problem/1254)  |[DNA 비밀번호](https://www.acmicpc.net/problem/12891)  ||[문자열 폭발](https://www.acmicpc.net/problem/9935)  |[LCS](https://www.acmicpc.net/problem/9251) |
 | 8주차    | 그래프이론 |  |  |  |    |
 
 
