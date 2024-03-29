@@ -85,15 +85,14 @@
 
 | **주차** | **폴더명**          | **문제 1**                                                   | **문제 2**                                                   | **문제 3**                                                   | **문제 4** |
 | -------- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
-| 1주차    | greedy              | [설탕배달](https://www.acmicpc.net/problem/2839) | [ATM](https://www.acmicpc.net/problem/11399) | [ 동전0](https://www.acmicpc.net/problem/11047)                                                             | [A와 B](https://www.acmicpc.net/problem/12904)   |
-| 2주차    | 구현         | [사탕게임]( https://www.acmicpc.net/problem/3085) | [팰린드롬 ](https://www.acmicpc.net/problem/1213) | [트럭]( https://www.acmicpc.net/problem/13335)                                                             | [원판 돌리기]( https://www.acmicpc.net/problem/17822)   |
-| 3주차    | DFS/BFS         | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [안전영역 ](https://www.acmicpc.net/problem/2468) |  [아기상어 2]( https://www.acmicpc.net/problem/17086)                                                            | [텀 프로젝트](https://www.acmicpc.net/problem/9466)   |
-| 4주차    | 정렬             | [회의실 배정 ](https://www.acmicpc.net/problem/1931) | [좌표 압축 ](https://www.acmicpc.net/problem/18870) |  [신입 사원 ](https://www.acmicpc.net/problem/1946)                                                            | [두 용액 ](https://www.acmicpc.net/problem/2470)   |
-| 5주차    | 이진탐색               | [선물 ](https://www.acmicpc.net/problem/1166) | [나무 자르기 ](https://www.acmicpc.net/problem/2805) |  [과자 나눠주기 ](https://www.acmicpc.net/problem/16401)                                                            | [개똥벌레 ](https://www.acmicpc.net/problem/3020)   |
+| 1주차    | greedy| [설탕배달](https://www.acmicpc.net/problem/2839) | [ATM](https://www.acmicpc.net/problem/11399) | [ 동전0](https://www.acmicpc.net/problem/11047)                                                             | [A와 B](https://www.acmicpc.net/problem/12904)   |
+| 2주차    | 구현| [사탕게임]( https://www.acmicpc.net/problem/3085) | [팰린드롬 ](https://www.acmicpc.net/problem/1213) | [트럭]( https://www.acmicpc.net/problem/13335)                                                             | [원판 돌리기]( https://www.acmicpc.net/problem/17822)   |
+| 3주차    | DFS/BFS| [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [안전영역 ](https://www.acmicpc.net/problem/2468) |  [아기상어 2]( https://www.acmicpc.net/problem/17086)                                                            | [텀 프로젝트](https://www.acmicpc.net/problem/9466)   |
+| 4주차    | 정렬| [회의실 배정 ](https://www.acmicpc.net/problem/1931) | [좌표 압축 ](https://www.acmicpc.net/problem/18870) |  [신입 사원 ](https://www.acmicpc.net/problem/1946)                                                            | [두 용액 ](https://www.acmicpc.net/problem/2470)   |
+| 5주차    | 이진탐색| [선물 ](https://www.acmicpc.net/problem/1166) | [나무 자르기 ](https://www.acmicpc.net/problem/2805) |  [과자 나눠주기 ](https://www.acmicpc.net/problem/16401)                                                            | [개똥벌레 ](https://www.acmicpc.net/problem/3020)   |
 | 6주차    | 다이나믹프로그래밍|[덩치](https://www.acmicpc.net/problem/7568)  |[기타리스트](https://www.acmicpc.net/problem/1495)  |[점프](https://www.acmicpc.net/problem/1890)  |[퇴사 2](https://www.acmicpc.net/problem/15486)   |
 | 7주차    | 문자열(최단경로 대체)|[펠린드롬 만들기](https://www.acmicpc.net/problem/1254) |[DNA 비밀번호](https://www.acmicpc.net/problem/12891)  |[문자열 폭발](https://www.acmicpc.net/problem/9935)|[LCS](https://www.acmicpc.net/problem/9251)|
-| 8주차    | 그래프이론 |  |  |  |    |
-
+| 8주차    | 그래프이론 |[순열 사이클](https://www.acmicpc.net/problem/10451)|[섬의 개수](https://www.acmicpc.net/problem/4963)|[양](https://www.acmicpc.net/problem/3184)|[파티](https://www.acmicpc.net/problem/1238)|
 
 
 #### 모의 코딩테스트 문제 풀이
@@ -105,8 +104,8 @@
 | 3주차    | 2024-03-18         | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [여행경로 ](https://school.programmers.co.kr/learn/courses/30/lessons/43164) |  [대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139)                                                            | 
 | 4주차    | 2024-03-25             |[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | 
 | 5주차    | 2024-04-01                |[암기왕](https://www.acmicpc.net/problem/2776) |[랜선 자르기](https://www.acmicpc.net/problem/1654)|[예산](https://www.acmicpc.net/problem/2512)|  
-| 6주차    | 2024-04-08               |  |  |  |   
-| 7주차    | 2024-04-15       |  |  |                                                              |
+| 6주차    | 2024-04-08|[수익](https://www.acmicpc.net/problem/4097)|[구간 합 구하기5](https://www.acmicpc.net/problem/11660)|[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|   
+| 7주차    | 2024-04-15 |[문자열 집합](https://www.acmicpc.net/problem/14425)  |[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[공통 부분 문자열](https://www.acmicpc.net/problem/5582)|
 | 8주차    | 2024-04-22 |  |  |  |    
 
 
