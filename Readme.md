@@ -106,7 +106,7 @@
 | 5주차    | 2024-04-01                |[암기왕](https://www.acmicpc.net/problem/2776) |[랜선 자르기](https://www.acmicpc.net/problem/1654)|[예산](https://www.acmicpc.net/problem/2512)|  
 | 6주차    | 2024-04-08|[수익](https://www.acmicpc.net/problem/4097)|[구간 합 구하기5](https://www.acmicpc.net/problem/11660)|[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|   
 | 7주차    | 2024-04-15 |[문자열 집합](https://www.acmicpc.net/problem/14425)  |[문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|[공통 부분 문자열](https://www.acmicpc.net/problem/5582)|
-| 8주차    | 2024-04-22 |  |  |  |    
+| 8주차    | 2024-04-22 |[경로찾기](https://www.acmicpc.net/problem/11403)|[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|    
 
 
 ## 🔥 기타 참고사항
