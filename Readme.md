@@ -26,6 +26,7 @@
     <td>언어</td>
     <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqkgPHCraQnHArPSAgm--tzgZmD_btNVz7EJHLnadzhA&s">
     </td>
   </tr>
 </table>
