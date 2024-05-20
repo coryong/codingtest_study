@@ -1,3 +1,4 @@
+# heapq 좀 더 알아보는걸로
 import heapq
 
 def solution(pq):
