@@ -5,7 +5,7 @@ def solution(coins, k):
     # 내림차순
     coins = sorted(coins, reverse=True)
     for coin in coins:
-        if k // coin > 0: # coin < k
+        if k // coin > 0: # coin < k 둘 다 1일때 오류남
             cnt += k // coin
             k %= coin
         if k <= 0:
