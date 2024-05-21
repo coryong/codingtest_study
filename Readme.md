@@ -115,7 +115,7 @@
 | 1주차    | 2024-05-20   |[동전0](https://www.acmicpc.net/problem/11047) |[카드 정렬하기](https://www.acmicpc.net/problem/1715) |[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[카테고리별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855)| 
 | 2주차    | 2024-05-27   |[색종이](https://www.acmicpc.net/problem/2563)|[2차원 배열의 합](https://www.acmicpc.net/problem/2167) |[연구소](https://www.acmicpc.net/problem/14502)|[오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)|
 | 3주차    | 2024-06-03   |[신기한 소수](https://www.acmicpc.net/problem/2023) |[사람의 수](https://www.acmicpc.net/problem/1206) |[미로 탐색](https://www.acmicpc.net/problem/2178)|[서울에 위치한 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131118)|
-| 4주차    | 2024-06-10   |[ATM](https://www.acmicpc.net/problem/11399) |[소트인사이드](https://www.acmicpc.net/problem/1427) |[버블 소트](https://www.acmicpc.net/problem/1377) |  |
+| 4주차    | 2024-06-10   |[ATM](https://www.acmicpc.net/problem/11399) |[소트인사이드](https://www.acmicpc.net/problem/1427) |[버블 소트](https://www.acmicpc.net/problem/1377) |[업그레이드 할 수 없는 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273712)|
 | 5주차    | 2024-06-17  |[원하는 정수 찾기](https://www.acmicpc.net/problem/1920)|[기타 레슨](https://www.acmicpc.net/problem/2343)|[K번째 수](https://www.acmicpc.net/problem/2343)|  |
 | 6주차    | 2024-06-24||||   
 | 7주차    | 2024-07-01 ||||
