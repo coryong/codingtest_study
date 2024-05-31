@@ -3,6 +3,7 @@ import heapq as hq
 input = sys.stdin.readline
 # RuntimeError 한번 발생함. -> temp로 리스트와 힙을 계속 만들면 시간복잡도에서 걸림
 # 매번 전체 리스트를 슬라이싱하여 새로운 힙을 생성하는 것은 비효율적이며, 특히 리스트가 클 경우 메모리 초과가 발생
+# 중간값을 찾을 때, min_heap과 max_heap을 효율적으로 활용하는 것이 중요! -> 실제 코테에서도 충분히 나올 수 있는 내용
 
 import sys
 import heapq as hq
